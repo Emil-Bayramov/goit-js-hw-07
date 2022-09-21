@@ -14,7 +14,7 @@ const markUp = galleryItems
     alt="${description}"
   />
 </a>
-</div>`
+</div>`к
   )
   .join("");
 
